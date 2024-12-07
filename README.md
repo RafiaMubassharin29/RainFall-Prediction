@@ -1,4 +1,5 @@
 README for Rainfall Prediction Project.
+
 Project Overview
 This project focuses on predicting extreme rainfall events using various statistical and machine learning techniques. The dataset contains weather-related variables such as temperature, humidity, and sunshine, which are used to model rainfall patterns. The project includes data preprocessing, exploratory analysis, and model fitting, emphasizing quantile regression and seasonalized quantile regression.
 
